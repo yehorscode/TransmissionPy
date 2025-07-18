@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-)_69ej5!*7u7#__s_j0&h0@od!9q%m#al*(ghzxd!cl6^iir5^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['transmissionpy.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
